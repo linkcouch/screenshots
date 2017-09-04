@@ -1,0 +1,8 @@
+{
+  "name": "@linkcouch/screenshots",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/linkcouch/screenshots.git",
+  "author": "el-davo",
+  "license": "MIT"
+}
