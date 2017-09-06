@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/linkcouch/screenshots.git",
   "author": "el-davo",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
 }
