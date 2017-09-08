@@ -1,6 +1,6 @@
 let lib = require('../index');
 
-lib.screenshots.getImage('eaa586a0-9268-11e7-b402-836f225556ff', 'http://www.google.com')
+lib.screenshots.getImage('430acac0-94bd-11e7-bc46-cfbba3a33f04', 'http://www.google.com')
     .then((body) => {
         console.log(body);
     })
